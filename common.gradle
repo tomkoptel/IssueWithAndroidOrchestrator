@@ -1,6 +1,6 @@
 ext {
     espressoVersion = '3.0.2-beta1'
-    supportTest = '1.0.0'
+    supportTest = '1.0.2-beta1'
     kotlin_version = '1.2.30'
     supportTools = '27.1.1'
     constraintLayout = '1.1.0'
